@@ -27,7 +27,15 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+        <opener>
+        <dateline> A &amp; M College  <lb/> Raleigh, Feb. 28 - '94
+        <lb/> <lb/><salut> Dear Sister,</salut>
+        <p> Your letter to me <lb/> was received Monday the 19th <lb/>and I was glad to get it too, as <lb/> it was the first time your letters were more than a week a</p>
+        
+        
+        <p> </p>
+        </dateline>
+        </opener>
       </body>
   </text>
 </TEI>
